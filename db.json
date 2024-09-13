@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "c1fe",
+      "name": "fcghj",
+      "email": "hgcdfs@gmail.com",
+      "contraseña": "4545",
+      "ti": "45546",
+      "fichaFormacion": "45454",
+      "documentType": "TI",
+      "bloodType": "A+"
+    },
+    {
+      "id": "79e4",
+      "name": "camilo",
+      "email": "camilo@gmail.com",
+      "contraseña": "123654",
+      "ti": "158151",
+      "fichaFormacion": "2872893",
+      "documentType": "TI",
+      "bloodType": "A-"
+    }
+  ],
+  "admim": []
+}
